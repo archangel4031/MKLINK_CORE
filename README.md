@@ -9,7 +9,7 @@ A simple Windows Forms application that provides a graphical user interface (GUI
 - [Features](#features)
 - [Installation](#installation)
 - [Usage](#usage)
-- [Binaries](#binaries)
+- [Executables](#executables)
 
 
 ## Features
@@ -53,6 +53,6 @@ git lfs install
 5. Click the Execute button to create the link.
 6. View the command output in the output text box.
 
-## Binaries
+## Executables
 
-Binaries are provided in the release section of the repository.
+Executables are provided in the [Releases](https://github.com/archangel4031/MKLINK_CORE/releases) section of the repository.
