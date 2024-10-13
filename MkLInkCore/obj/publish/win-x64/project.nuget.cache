@@ -1,0 +1,37 @@
+{
+  "version": 2,
+  "dgSpecHash": "Vv/KrNuk7U4=",
+  "success": true,
+  "projectFilePath": "D:\\VSCodes\\MKLINK_CORE\\MkLInkCore\\MkLInkCore.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.35\\microsoft.netcore.app.runtime.win-x64.6.0.35.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.35\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.35.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.35\\microsoft.aspnetcore.app.runtime.win-x64.6.0.35.nupkg.sha512"
+  ],
+  "logs": [
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAPICodePack-Core 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAPICodePack-Core",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    },
+    {
+      "code": "NU1701",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'WindowsAPICodePack-Shell 1.1.1' was restored using '.NETFramework,Version=v4.6.1, .NETFramework,Version=v4.6.2, .NETFramework,Version=v4.7, .NETFramework,Version=v4.7.1, .NETFramework,Version=v4.7.2, .NETFramework,Version=v4.8, .NETFramework,Version=v4.8.1' instead of the project target framework 'net6.0-windows7.0'. This package may not be fully compatible with your project.",
+      "libraryId": "WindowsAPICodePack-Shell",
+      "targetGraphs": [
+        "net6.0-windows7.0"
+      ]
+    }
+  ]
+}

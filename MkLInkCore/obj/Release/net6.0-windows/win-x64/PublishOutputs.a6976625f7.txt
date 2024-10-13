@@ -1,0 +1,7 @@
+D:\VSCodes\MKLINK_CORE\_builds\MkLInkCore.pdb
+D:\VSCodes\MKLINK_CORE\_builds\D3DCompiler_47_cor3.dll
+D:\VSCodes\MKLINK_CORE\_builds\PenImc_cor3.dll
+D:\VSCodes\MKLINK_CORE\_builds\PresentationNative_cor3.dll
+D:\VSCodes\MKLINK_CORE\_builds\vcruntime140_cor3.dll
+D:\VSCodes\MKLINK_CORE\_builds\wpfgfx_cor3.dll
+D:\VSCodes\MKLINK_CORE\_builds\MkLInkCore.exe
