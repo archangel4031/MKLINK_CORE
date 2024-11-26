@@ -4,6 +4,9 @@
 
 A simple Windows Forms application that provides a graphical user interface (GUI) for the `mklink` command, allowing users to create symbolic links and junction points easily.
 
+
+![GUI_IMAGE](https://github.com/archangel4031/MKLINK_CORE/blob/main/_images/GUI_Snapshot.png)
+
 ## Table of Contents
 
 - [Features](#features)
@@ -25,7 +28,7 @@ A simple Windows Forms application that provides a graphical user interface (GUI
 ### Prerequisites
 
 - [.NET 6.0](https://dotnet.microsoft.com/download/dotnet/6.0) or higher
-- Visual Studio 2022 or newer (optional, for development)
+- [Visual Studio 2022](https://visualstudio.microsoft.com/vs/) or newer (optional, for development)
 
 ### Steps
 
@@ -56,3 +59,4 @@ git lfs install
 ## Executables
 
 Executables are provided in the [Releases](https://github.com/archangel4031/MKLINK_CORE/releases) section of the repository.
+They can also be found in the [_builds](https://github.com/archangel4031/MKLINK_CORE/tree/main/_builds) folder of the repository.

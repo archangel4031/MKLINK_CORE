@@ -18,3 +18,4 @@ D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Debug\net6.0-windows\refint\MkLInkCore.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Debug\net6.0-windows\MkLInkCore.pdb
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Debug\net6.0-windows\MkLInkCore.genruntimeconfig.cache
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Debug\net6.0-windows\ref\MkLInkCore.dll
+D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Debug\net6.0-windows\MkLInkCore.sourcelink.json

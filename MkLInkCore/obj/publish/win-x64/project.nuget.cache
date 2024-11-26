@@ -1,16 +1,16 @@
 {
   "version": 2,
-  "dgSpecHash": "Vv/KrNuk7U4=",
+  "dgSpecHash": "1+MZtmXJnaA=",
   "success": true,
   "projectFilePath": "D:\\VSCodes\\MKLINK_CORE\\MkLInkCore\\MkLInkCore.csproj",
   "expectedPackageFiles": [
-    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23401.1\\microsoft.net.illink.analyzers.7.0.100-1.23401.1.nupkg.sha512",
-    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23401.1\\microsoft.net.illink.tasks.7.0.100-1.23401.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.analyzers\\7.0.100-1.23211.1\\microsoft.net.illink.analyzers.7.0.100-1.23211.1.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.net.illink.tasks\\7.0.100-1.23211.1\\microsoft.net.illink.tasks.7.0.100-1.23211.1.nupkg.sha512",
     "C:\\Users\\wolfp\\.nuget\\packages\\windowsapicodepack-core\\1.1.1\\windowsapicodepack-core.1.1.1.nupkg.sha512",
     "C:\\Users\\wolfp\\.nuget\\packages\\windowsapicodepack-shell\\1.1.1\\windowsapicodepack-shell.1.1.1.nupkg.sha512",
-    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.35\\microsoft.netcore.app.runtime.win-x64.6.0.35.nupkg.sha512",
-    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.35\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.35.nupkg.sha512",
-    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.35\\microsoft.aspnetcore.app.runtime.win-x64.6.0.35.nupkg.sha512"
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.netcore.app.runtime.win-x64\\6.0.36\\microsoft.netcore.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.windowsdesktop.app.runtime.win-x64\\6.0.36\\microsoft.windowsdesktop.app.runtime.win-x64.6.0.36.nupkg.sha512",
+    "C:\\Users\\wolfp\\.nuget\\packages\\microsoft.aspnetcore.app.runtime.win-x64\\6.0.36\\microsoft.aspnetcore.app.runtime.win-x64.6.0.36.nupkg.sha512"
   ],
   "logs": [
     {

@@ -273,7 +273,6 @@ D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\dbgshim.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\hostfxr.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\hostpolicy.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\mscordaccore.dll
-D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\mscordaccore_amd64_amd64_6.0.3524.45918.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\mscordbi.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\mscorrc.dll
 D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\msquic.dll
@@ -517,3 +516,5 @@ D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Release\net6.0-windows\win-x64\refint\MkLI
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Release\net6.0-windows\win-x64\MkLInkCore.pdb
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Release\net6.0-windows\win-x64\MkLInkCore.genruntimeconfig.cache
 D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Release\net6.0-windows\win-x64\ref\MkLInkCore.dll
+D:\VSCodes\MKLINK_CORE\MkLInkCore\bin\Release\net6.0-windows\win-x64\mscordaccore_amd64_amd64_6.0.3624.51421.dll
+D:\VSCodes\MKLINK_CORE\MkLInkCore\obj\Release\net6.0-windows\win-x64\MkLInkCore.sourcelink.json

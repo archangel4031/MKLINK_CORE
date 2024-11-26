@@ -88,7 +88,7 @@ namespace MkLink
                 return; // Exit if source path does not exist
             }
 
-            if (!Directory.Exists(txtDestination.Text))
+            if (chkRename.Checked && !Directory.Exists(txtDestination.Text))
             {
                 MessageBox.Show("The destination path does not exist.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return; // Exit if destination path does not exist
@@ -125,7 +125,7 @@ namespace MkLink
                 return; // Exit if source path does not exist
             }
 
-            if (!Directory.Exists(txtDestination.Text))
+            if (chkRename.Checked && !Directory.Exists(txtDestination.Text))
             {
                 MessageBox.Show("The destination path does not exist.", "Input Error", MessageBoxButtons.OK, MessageBoxIcon.Warning);
                 return; // Exit if destination path does not exist

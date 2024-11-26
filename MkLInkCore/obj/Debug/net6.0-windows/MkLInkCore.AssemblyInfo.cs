@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("MkLInkCore")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+7d15d2ca5c14de223813572268f72f7fcf3b3cd3")]
 [assembly: System.Reflection.AssemblyProductAttribute("MkLInkCore")]
 [assembly: System.Reflection.AssemblyTitleAttribute("MkLInkCore")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]

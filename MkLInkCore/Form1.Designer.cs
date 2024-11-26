@@ -45,7 +45,7 @@
             txtSource.Location = new Point(14, 39);
             txtSource.Margin = new Padding(4, 3, 4, 3);
             txtSource.Name = "txtSource";
-            txtSource.Size = new Size(605, 23);
+            txtSource.Size = new Size(507, 23);
             txtSource.TabIndex = 0;
             txtSource.TextChanged += txtSource_TextChanged;
             // 
@@ -54,7 +54,7 @@
             txtDestination.Location = new Point(15, 110);
             txtDestination.Margin = new Padding(4, 3, 4, 3);
             txtDestination.Name = "txtDestination";
-            txtDestination.Size = new Size(605, 23);
+            txtDestination.Size = new Size(506, 23);
             txtDestination.TabIndex = 0;
             txtDestination.TextChanged += txtDestination_TextChanged;
             // 
@@ -115,7 +115,7 @@
             // 
             // browseSource
             // 
-            browseSource.Location = new Point(628, 39);
+            browseSource.Location = new Point(540, 39);
             browseSource.Margin = new Padding(4, 3, 4, 3);
             browseSource.Name = "browseSource";
             browseSource.Size = new Size(88, 27);
@@ -126,7 +126,7 @@
             // 
             // browseDestination
             // 
-            browseDestination.Location = new Point(628, 110);
+            browseDestination.Location = new Point(540, 110);
             browseDestination.Margin = new Padding(4, 3, 4, 3);
             browseDestination.Name = "browseDestination";
             browseDestination.Size = new Size(88, 27);
@@ -142,14 +142,14 @@
             txtOutput.Multiline = true;
             txtOutput.Name = "txtOutput";
             txtOutput.ScrollBars = ScrollBars.Vertical;
-            txtOutput.Size = new Size(605, 97);
+            txtOutput.Size = new Size(614, 97);
             txtOutput.TabIndex = 6;
             // 
             // Form1
             // 
             AutoScaleDimensions = new SizeF(7F, 15F);
             AutoScaleMode = AutoScaleMode.Font;
-            ClientSize = new Size(737, 374);
+            ClientSize = new Size(651, 374);
             Controls.Add(txtOutput);
             Controls.Add(browseDestination);
             Controls.Add(browseSource);
